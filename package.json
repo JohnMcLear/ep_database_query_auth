@@ -17,5 +17,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/JohnMcLear/ep_database_query_auth.git"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "http://etherpad.org/"
   }
 }
